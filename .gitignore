@@ -1,0 +1,3 @@
+*.suo
+/QtXml/x64
+*.user
